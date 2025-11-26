@@ -76,7 +76,7 @@ def styled_button(parent, text, grid, command=None):
         grid=grid, 
         command=command, 
         width=20, 
-        height=2#,
+        height=2,
         text_color="white",
         border=3
     )
