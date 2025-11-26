@@ -16,4 +16,3 @@ send_button = PushButton(app, command=send_message, text="Send Message")
 output = Text(app, text="Response will appear here")
 
 app.display()
-#test
